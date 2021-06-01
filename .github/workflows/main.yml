@@ -1,0 +1,2 @@
+name: A hello world workflow under this course
+on: [push]
